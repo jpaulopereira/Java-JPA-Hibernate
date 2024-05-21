@@ -1,1 +1,1 @@
-#Curso Hibernate Alura
+#Curso Java e JPA/Hibernate. Alura
