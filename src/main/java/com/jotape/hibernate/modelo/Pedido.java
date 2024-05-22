@@ -25,7 +25,7 @@ public class Pedido {
         this.cliente = cliente;
     }
 
-    @ManyToOne
+    @ManyToOne(fetch = FetchType.LAZY)
     private Cliente cliente;
 
     @OneToMany(mappedBy = "pedido", cascade = CascadeType.ALL)

@@ -1,7 +1,6 @@
 package com.jotape.hibernate.dao;
 
 import com.jotape.hibernate.modelo.Cliente;
-import com.jotape.hibernate.modelo.Produto;
 
 import javax.persistence.EntityManager;
 

@@ -40,7 +40,7 @@ public class CadastroDePedidoMain {
 
     private static void cadastrarProduto() {
         Categoria celulares = new Categoria("CELULARES");
-        Produto celular = new Produto("Xiaomi Redmi", "Muito legal", new BigDecimal("800"), celulares );
+        Produto celular = new Produto("Xiaomi Redmi", "Muito legal", new BigDecimal("800"), celulares);
 
         Cliente cliente = new Cliente("João", "23213543");
 
