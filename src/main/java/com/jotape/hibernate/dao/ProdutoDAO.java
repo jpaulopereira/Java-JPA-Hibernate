@@ -37,7 +37,6 @@ public class ProdutoDAO {
     }
 
     public List<Produto> buscarPorNome(String nome) {
-        //produto == nome da entidade
         //:nome == nome do atributo || p.nome = ?1
         String jpql = "SELECT p FROM Produto p WHERE p.nome = :nome";
         return em.createQuery(jpql, Produto.class)

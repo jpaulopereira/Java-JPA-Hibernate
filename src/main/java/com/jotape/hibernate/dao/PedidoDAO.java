@@ -33,7 +33,7 @@ public class PedidoDAO {
     }
 
     public List<RelatorioDeVendasVo> relatorioDeVendas() {
-        String jpql = "SELECT new br.com.alura.loja.vo.RelatorioDeVendasVo("
+        String jpql = "SELECT new com.jotape.hibernate.vo.RelatorioDeVendasVo("
                 + "produto.nome, "
                 + "SUM(item.quantidade) as quantidadeTotal, "
                 + "MAX(pedido.data)) "

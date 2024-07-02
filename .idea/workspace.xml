@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40a787cb-d450-463d-bbce-6b0809fa03a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jotape/hibernate/dao/PedidoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jotape/hibernate/dao/PedidoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jotape/hibernate/dao/ProdutoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jotape/hibernate/dao/ProdutoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jotape/hibernate/HibernateApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jotape/hibernate/dao/CategoriaDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jotape/hibernate/dao/ClienteDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jotape/hibernate/dao/PedidoDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jotape/hibernate/dao/ProdutoDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jotape/hibernate/modelo/Categoria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jotape/hibernate/modelo/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jotape/hibernate/modelo/DadosPessoais.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jotape/hibernate/modelo/ItemPedido.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jotape/hibernate/modelo/Pedido.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jotape/hibernate/modelo/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jotape/hibernate/testes/CadastroDePedidoMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jotape/hibernate/testes/CadastroDeProdutoMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jotape/hibernate/util/JPAUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jotape/hibernate/vo/RelatorioDeVendasVo.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2igt02p7zawG87a1sTVglWsPuUZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40a787cb-d450-463d-bbce-6b0809fa03a5" name="Changes" comment="" />
+      <created>1719923822029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719923822029</updated>
+    </task>
+    <servers />
+  </component>
+</project>
